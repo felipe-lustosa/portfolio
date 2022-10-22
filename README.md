@@ -21,7 +21,8 @@
 This project was developed using the following technologies:
 
 -   [NextJS](https://nextjs.org/)
--   [Stitches](https://stitches.dev/)
+-   [Tailwind](https://tailwindui.com/)
+-   [Framer motion](https://www.framer.com/motion/)
 
 ## 🚀 Getting started
 
@@ -36,9 +37,9 @@ cd my-onix-web
 Run this command to install the dependencies.
 
 ```bash
-yarn install
+npm install
 
-yarn dev
+npm run dev
 ```
 
 ## 🔖 Layout
@@ -57,4 +58,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Made with 💜 by [birobirobiro](https://www.birobirobiro.dev) 👋
+Made with 💜 by [Felipe Lustosa](https://www.birobirobiro.dev) 👋
